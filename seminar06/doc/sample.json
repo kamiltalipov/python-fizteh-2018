@@ -1,0 +1,13 @@
+{
+   "firstName": "Ivan",
+   "lastName": "Ivanov",
+   "address": {
+       "streetAddress": "Pervomaiskaya Street, 32",
+       "city": "Dolgoprudny",
+       "postalCode": 101101
+   },
+   "phoneNumbers": [
+       "812 123-1234",
+       "916 123-4567"
+   ]
+}
