@@ -1,0 +1,14 @@
+<html>
+<head>
+</head>
+<body>
+    <h1>My cool web site</h1>
+    {% if username %}
+    <p>You logged in as {{ username }}</p>
+    <a href='/logout'>Log out</a>
+    {% else %}
+    <a href='/login'>Log in</a>
+    {% endif %}
+    
+</body>
+</html>
